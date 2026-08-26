@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vj
-- 👀 I’m interested in ...AIML , TEST AUTOMATION & Emerging Tech
-- 🌱 I’m currently learning ...AIML
-- 💞️ I’m looking to collaborate on ...TEST AUTOMATION & AI
+- 👀 I’m interested in ... Emerging Tech
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...vijaychowthri@gmail.com
 
 <!---
